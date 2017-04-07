@@ -1,0 +1,48 @@
+body {
+    background-color:gray;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {color:black;
+}
+
+h3 {color:black;
+}
+
+h4 {color:black;
+}
+
+p {color:red;
+}
+
+hr {width:75%;
+	margin-left:auto;
+	margin-right:auto;
+	color:#ffffff;
+}
+
+.button {
+    background-color: #ffffff;
+    border: 1px;
+    color: gray;
+    padding: 18px 35px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.button1 {
+	background-color: black;
+	color: white;
+	border: 2px solid #000000;
+}
+
+.button1:hover {
+	background-color: white;
+	color: black;
+}
+
+@media only screen and (max-device-width: 480px){
+}
