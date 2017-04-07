@@ -44,5 +44,13 @@ hr {width:75%;
 	color: black;
 }
 
+.art img {
+	display: inline;
+	max-width: 632px;
+}
+
 @media only screen and (max-device-width: 480px){
+	.art img{
+		display: block;
+	}
 }
